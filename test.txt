@@ -1,0 +1,1 @@
+I successfully added the git-agent to auto run the password in shell!
